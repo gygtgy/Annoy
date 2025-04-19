@@ -1,2 +1,2 @@
 # Annoy
-Annoy
+click the face to begin
